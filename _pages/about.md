@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a third-year PhD student in School of Engineering at National University of Singapore (NUS), supervised by [Prof. Andrew Lim](https://www.limandrew.org/) and [Prof. Chee Yeow Meng](https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=zh-CN). My research interests lies on 3D Computer Vison, and Graph Neural Network. Formerly, I received M. Sc (Electrical & Computer Engineering) from NUS, B. Sc (Microeletronic) from Jilin University (JLU). While completing several innovative projects. I have also published papers in the refereed conferences including NeurIPS, ICCV, and ACM MM.
+Hi! I am a third-year PhD student in School of Engineering at National University of Singapore (NUS), supervised by [Prof. Andrew Lim](https://www.limandrew.org/) and [Prof. Chee Yeow Meng](https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=zh-CN). My research interests lies on 3D Computer Vison, and Graph Neural Network. I received M. Sc (Electrical & Computer Engineering) from NUS, B. Sc (Microeletronic) from Jilin University (JLU). While completing several innovative projects. I have also published papers in the refereed conferences including NeurIPS, ICCV, and ACM MM.
 
 Research Topics:
 * Deep Learning on 3D Point Cloud
