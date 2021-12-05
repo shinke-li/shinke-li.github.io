@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinke Li"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xinke Li"
 description              : &description "personal description"
