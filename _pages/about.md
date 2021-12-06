@@ -19,7 +19,7 @@ Research Topics:
 * Jul. 22, 2021: A paper "[PointBA: Towards Backdoor Attacks in 3D Point Cloud](https://arxiv.org/abs/2103.16074)" was accepted by [ICCV 2021](https://iccv2021.thecvf.com/home).
 * Jul. 03, 2021: A [reproducibility paper](https://github.com/Yuqing-Liao/reproduce-campus3d) was accepted by [ACM MM 2021](https://2021.acmmm.org/).
 * Sep. 26, 2020: A paper "[Digraph Inception Convolutional Networks](https://proceedings.neurips.cc/paper/2020/hash/cffb6e2288a630c2a787a64ccc67097c-Abstract.html)" was accepted by [NeurIPS 2020](https://nips.cc/Conferences/2020).
-* Aug. 06, 2020: **Campus3D** launches publicly. The offcial website is [here](http://https://3d.nus.app/).
+* Aug. 06, 2020: **Campus3D** launches publicly. The offcial website is [here](3d.nus.app).
 * Jul. 26, 2020: A paper "[Campus3d: A photogrammetry point cloud benchmark for hierarchical understanding of outdoor scene](https://arxiv.org/abs/2008.04968)" was accepted by [ACM MM 2020](https://2020.acmmm.org/) (oral).
 * Mar. 16, 2020: **Campus3D** dataset has been constructed.
 
