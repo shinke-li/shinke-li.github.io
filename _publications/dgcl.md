@@ -1,7 +1,7 @@
 ---
 title: "Directed Graph Contrastive Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/dgcl
 excerpt: ''
 date: 2021-07-26
 venue: 'NeurIPS'
