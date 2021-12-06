@@ -3,10 +3,10 @@ title: "Directed Graph Contrastive Learning"
 collection: publications
 permalink: /publication/dgcl
 excerpt: ''
-date: 2021-07-26
+date: 2021-09-28
 venue: 'NeurIPS'
 paperurl: ''
-citation: 'Tong, Z., Liang, Y., Ding, H., Dai, Y., Li, X., & Wang, C. (2021). &quot;Directed Graph Contrastive Learning.&quot; <i>Advances in Neural Information Processing Systems,</i>. 34.'
+citation: 'Zekun Tong, Yuxuan Liang, Henghui Ding, Yongxing Dai, **Xinke Li**, Changhu Wang. (2021). &quot;Directed Graph Contrastive Learning.&quot; <i>Advances in Neural Information Processing Systems,</i>. 34.'
 ---
 [paper](https://proceedings.neurips.cc/paper/2021/file/a3048e47310d6efaa4b1eaf55227bc92-Paper.pdf) [code](https://github.com/flyingtango/DiGCL)
 ## Abstract
