@@ -2,11 +2,11 @@
 title: "Directed Graph Contrastive Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2021-07-26
-venue: 'NeurIPS 2021'
+venue: 'NeurIPS'
 paperurl: ''
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Tong, Z., Liang, Y., Ding, H., Dai, Y., Li, X., & Wang, C. (2021). &quot;Directed Graph Contrastive Learning.&quot; <i>Advances in Neural Information Processing Systems,</i>. 34.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
