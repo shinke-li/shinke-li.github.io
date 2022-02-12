@@ -6,7 +6,8 @@ excerpt: ''
 date: 2020-12-06
 venue: 'NeurIPS'
 paperurl: ''
-citation: 'Zekun Tong, Yuxuan Liang, Changsheng Sun, Xinke Li, David Rosenblum, Andrew Lim (2021). &quot;Digraph Inception Convolutional Networks.&quot; <i>Advances in Neural Information Processing Systems</i>, 33.'
+citation: 'Zekun Tong, Yuxuan Liang, Changsheng Sun, Xinke Li, David Rosenblum, Andrew Lim.'
+#citation: 'Zekun Tong, Yuxuan Liang, Changsheng Sun, Xinke Li, David Rosenblum, Andrew Lim (2021). &quot;Digraph Inception Convolutional Networks.&quot; <i>Advances in Neural Information Processing Systems</i>, 33.'
 ---
 [paper](https://proceedings.neurips.cc/paper/2020/file/cffb6e2288a630c2a787a64ccc67097c-Paper.pdf?ref=https://githubhelp.com)  [code](https://github.com/flyingtango/DiGCN)
 ## Abstract

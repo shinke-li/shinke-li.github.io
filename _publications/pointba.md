@@ -6,7 +6,8 @@ excerpt: ''
 date: 2021-07-22
 venue: 'ICCV'
 paperurl: ''
-citation: 'Xinke Li, Zhirui Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, Joey Tianyi Zhou (2021). &quot;PointBA: Towards Backdoor Attacks in 3D Point Cloud.&quot; <i>IEEE International Conference on Computer Vision</i>.'
+citation: 'Xinke Li, Zhirui Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, Joey Tianyi Zhou.'
+#citation: 'Xinke Li, Zhirui Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, Joey Tianyi Zhou (2021). &quot;PointBA: Towards Backdoor Attacks in 3D Point Cloud.&quot; <i>IEEE International Conference on Computer Vision</i>.'
 ---
 [paper](https://arxiv.org/pdf/2103.16074)
 ## Abstract

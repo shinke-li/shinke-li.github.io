@@ -6,7 +6,9 @@ excerpt: ''
 date: 2020-10-12
 venue: 'ACM Multimedia (oral)'
 paperurl: ''
-citation: 'Xinke Li, Chongshou Li, Zekun Tong, Andrew Lim, Junsong Yuan, Yuwei Wu, Jing Tang, Raymond Huang。 &quot;Campus3D: A Photogrammetry Point Cloud Benchmark for Hierarchical Understanding of Outdoor Scene.&quot; <i>Proceedings of the 28th ACM International Conference on Multimedia. </i>.2020.'
+citation: 'Xinke Li, Chongshou Li, Zekun Tong, Andrew Lim, Junsong Yuan, Yuwei Wu, Jing Tang, Raymond Huang.'
+
+#citation: 'Xinke Li, Chongshou Li, Zekun Tong, Andrew Lim, Junsong Yuan, Yuwei Wu, Jing Tang, Raymond Huang. &quot;Campus3D: A Photogrammetry Point Cloud Benchmark for Hierarchical Understanding of Outdoor Scene.&quot; <i>Proceedings of the 28th ACM International Conference on Multimedia. </i>.2020.'
 ---
 [paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413661)  [code](https://github.com/shinke-li/Campus3D)   [reproduce-code](https://github.com/Yuqing-Liao/reproduce-campus3d)  [website](https://3d.nus.app)
 
