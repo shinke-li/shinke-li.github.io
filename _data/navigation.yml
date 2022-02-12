@@ -5,7 +5,7 @@ main:
 
   #- title: "Experience"
   #  url: /experience/
-  
+
   #- title: "Experience"
     #url: /talks/    
 
@@ -18,7 +18,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "Experience"
     url: /experience/
     
   #- title: "Guide"
