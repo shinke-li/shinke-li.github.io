@@ -9,10 +9,12 @@ author_profile: true
 
 ## Research Intern
 [Bytedance AI Lab](https://ailab.bytedance.com)
+
 Mar 2021 - Jul 2021
 
 ## Research Assistant
 [Institute of Operations Research and Analytics (IORA), NUS](https://iora.nus.edu.sg)
+
 Jan 2018 - Jan 2019
   
 ## Teaching
