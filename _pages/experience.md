@@ -20,7 +20,7 @@ Jan 2018 - Jan 2019,
 
   
 ## Teaching Assistant
-Jan 2019 - Now, ISEM NUS
+Jan 2019 - Now, ISEM NUS ewdf
 * IE4242 Cost Analysis and Management, NUS
 * IE5205 Healthcare System and Analytics, NUS
 
