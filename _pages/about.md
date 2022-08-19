@@ -15,6 +15,8 @@ Research Topics:
 * Data-centric AI
 
 # News
+* Jun, 23, 2022: I am glad to attend offline meeting at New Orleans, [CVPR 2022](https://cvpr2022.thecvf.com/). Please feel free to say Hi!
+* Apr. 16, 2022: A paper "[Primitive3D: 3D Object Dataset Synthesis From Randomly Assembled Primitives](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Primitive3D_3D_Object_Dataset_Synthesis_From_Randomly_Assembled_Primitives_CVPR_2022_paper.html)" was accepted by [CVPR 2022](https://cvpr2022.thecvf.com/)
 * Sep. 28, 2021: A paper "[Directed Graph Contrastive Learning](https://proceedings.neurips.cc/paper/2021/hash/a3048e47310d6efaa4b1eaf55227bc92-Abstract.html)" was accepted by [NeurIPS 2021](https://nips.cc/Conferences/2021/).
 * Jul. 22, 2021: A paper "[PointBA: Towards Backdoor Attacks in 3D Point Cloud](https://arxiv.org/abs/2103.16074)" was accepted by [ICCV 2021](https://iccv2021.thecvf.com/home).
 * Jul. 03, 2021: A [reproducibility paper](https://github.com/Yuqing-Liao/reproduce-campus3d) was accepted by [ACM MM 2021](https://2021.acmmm.org/).
