@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a third-year PhD student in Faculty of Engineering at National University of Singapore (NUS), supervised by [Prof. Andrew Lim](https://www.limandrew.org/) and [Prof. Chee Yeow Meng](https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=zh-CN). My research interests lie on Deep Learning, 3D Computer Vision, and Graph Neural Network. I received M. Sc (Electrical & Computer Engineering) from NUS. I was also hired as a research assistant at IORA, NUS, working on serveral innovative projects of deep learning applications. Besides the projects, I have also published papers in the refereed conferences including NeurIPS, ICCV, and ACM MM.
-
+Hi! I am a forth-year PhD student in Faculty of Engineering at National University of Singapore (NUS), supervised by [Prof. Chee Yeow Meng](https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=zh-CN). My research interests lie on Deep Learning, 3D Point Cloud, and Graph Neural Network. I received M. Sc (Electrical & Computer Engineering) from NUS. I was also hired as a research assistant at IORA, NUS, working on serveral innovative projects of deep learning applications. Besides the computer vision projects, I have also interested in the implementation of machine learning techiniques on medical applications.
 Research Topics:
 * Deep Learning on 3D Point Cloud
 * Graph Neural Network
-* Data-centric AI
+* Data-centric and Robust AI
 
 # News
 * Jun, 23, 2022: I am glad to attend offline meeting at New Orleans, [CVPR 2022](https://cvpr2022.thecvf.com/). Please feel free to say Hi!
@@ -25,6 +24,6 @@ Research Topics:
 * Jul. 26, 2020: A paper "[Campus3D: A photogrammetry point cloud benchmark for hierarchical understanding of outdoor scene](https://arxiv.org/abs/2008.04968)" was accepted by [ACM MM 2020](https://2020.acmmm.org/) (oral).
 * Mar. 16, 2020: **Campus3D** dataset has been constructed.
 
-# Selected Content
+
 
 
