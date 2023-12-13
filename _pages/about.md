@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a Post-doc research fellow in Faculty of Engineering at National University of Singapore (NUS). Before that, I was a Ph.D. student in NUS supervised by [Prof. Chee Yeow Meng](https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=zh-CN). My thesis topic is "Towards Dataset Construction for 3D Understanding". I received M. Sc (Electrical & Computer Engineering) from NUS. I was also hired as a research assistant at IORA, NUS, working on serveral innovative projects of deep learning visual applications. Besides the vision-based projects, I have also interested in the implementation of machine learning techiniques on medical applications. My research work was published in a series of top conferences, including CVPR, ICCV, NeurIPS, ACM MM and AAAI
+Hi! I am a Post-doc research fellow in Faculty of Engineering at National University of Singapore (NUS). Before that, I was a Ph.D. student in NUS supervised by [Prof. Chee Yeow Meng](https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=zh-CN). My thesis topic is "Towards Dataset Construction for 3D Understanding". I received M. Sc (Electrical & Computer Engineering) from NUS. I was also hired as a research assistant at IORA, NUS, working on serveral innovative projects of deep learning visual applications. Besides the vision-based projects, I have also interested in the implementation of machine learning techiniques on medical applications. My research work was published in a series of top conferences, including CVPR, ICCV, NeurIPS, ACM MM and AAAI.
 
 My Current Research Topics:
 * Deep Learning on 3D Point Cloud
