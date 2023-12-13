@@ -7,14 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a forth-year PhD student in Faculty of Engineering at National University of Singapore (NUS), supervised by [Prof. Chee Yeow Meng](https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=zh-CN). My research interests lie on Deep Learning, 3D Point Cloud, and Graph Neural Network. I received M. Sc (Electrical & Computer Engineering) from NUS. I was also hired as a research assistant at IORA, NUS, working on serveral innovative projects of deep learning applications. Besides the computer vision projects, I have also interested in the implementation of machine learning techiniques on medical applications.
-Research Topics:
+Hi! I am a Post-doc research fellow in Faculty of Engineering at National University of Singapore (NUS). Before that, I was a Ph.D. student in NUS supervised by [Prof. Chee Yeow Meng](https://scholar.google.com/citations?user=99AJNXEAAAAJ&hl=zh-CN). My thesis topic is "Towards Dataset Construction for 3D Understanding". I received M. Sc (Electrical & Computer Engineering) from NUS. I was also hired as a research assistant at IORA, NUS, working on serveral innovative projects of deep learning visual applications. Besides the vision-based projects, I have also interested in the implementation of machine learning techiniques on medical applications. My research work was published in a series of top conferences, including CVPR, ICCV, NeurIPS, ACM MM and AAAI
+
+My Current Research Topics:
 * Deep Learning on 3D Point Cloud
-* Graph Neural Network
-* Data-centric and Robust AI
+* Data-centric and Reliable AI
 
 # News
-* Jun, 23, 2022: I am glad to attend offline meeting at New Orleans, [CVPR 2022](https://cvpr2022.thecvf.com/). Please feel free to say Hi!
+* Dec. 09, 2023: A paper "[PointCVaR: Risk-optimized Outlier Cleanse for Robust Point Cloud Classification](https://arxiv.org/abs/2307.10875)" was accepted by [AAAI 2024](https://aaai.org/aaai-conference/)
+* Dec. 02, 2023: A co-first-authored paper "A Railway Accident Prevention System Using An Intelligent Pilot Vehicle" was accepted by [IEEE TITS](https://ieee-itss.org/pub/t-its/)
+* Jun, 23, 2022: I am glad to attend offline meeting at New Orleans, [CVPR 2022](https://cvpr2022.thecvf.com/).
 * Apr. 16, 2022: A paper "[Primitive3D: 3D Object Dataset Synthesis From Randomly Assembled Primitives](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Primitive3D_3D_Object_Dataset_Synthesis_From_Randomly_Assembled_Primitives_CVPR_2022_paper.html)" was accepted by [CVPR 2022](https://cvpr2022.thecvf.com/)
 * Sep. 28, 2021: A paper "[Directed Graph Contrastive Learning](https://proceedings.neurips.cc/paper/2021/hash/a3048e47310d6efaa4b1eaf55227bc92-Abstract.html)" was accepted by [NeurIPS 2021](https://nips.cc/Conferences/2021/).
 * Jul. 22, 2021: A paper "[PointBA: Towards Backdoor Attacks in 3D Point Cloud](https://arxiv.org/abs/2103.16074)" was accepted by [ICCV 2021](https://iccv2021.thecvf.com/home).
