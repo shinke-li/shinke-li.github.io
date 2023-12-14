@@ -42,7 +42,8 @@ The **Virtual NUS** program aims at building a 3D digital twin of the NUS campus
     color: #999;
     padding: 2px;">Visualization of Campus3D Dataset</div>
 </center>
-The **Campus3D** dataset is the first photogrammetry point cloud dataset with hierarchical annotations.  It was built to promote the development of large-scene 3D understanding techniques, which might benefit a wide range of 3D applications. More information can be found on the [Official Website](https://3d.nus.app/).
+
+The **Campus3D** dataset is the first photogrammetry point cloud dataset with hierarchical annotations.  It was built to promote the development of large-scene 3D understanding techniques, which might benefit a wide range of 3D applications. More information can be found on the [Official Website](https://3d.nus.app).
 
   
 ## IPPT App
