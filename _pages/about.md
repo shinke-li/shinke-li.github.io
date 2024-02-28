@@ -14,6 +14,7 @@ My Current Research Topics:
 * Data-centric and Reliable AI
 
 # News
+* Feb. 25, 2024: Accepted paper "[PointCVaR: Risk-optimized Outlier Cleanse for Robust Point Cloud Classification](https://arxiv.org/abs/2307.10875)" was selected as **Oral Prepsentation** in AAAI 2024. The implementation code was released in [GitHub link](https://github.com/shinke-li/pointcvar)
 * Dec. 09, 2023: A paper "[PointCVaR: Risk-optimized Outlier Cleanse for Robust Point Cloud Classification](https://arxiv.org/abs/2307.10875)" was accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
 * Dec. 02, 2023: A co-first-authored paper "A Railway Accident Prevention System Using An Intelligent Pilot Vehicle" was accepted by [IEEE TITS](https://ieee-itss.org/pub/t-its/).
 * Jun, 23, 2022: I am glad to attend the offline meeting at New Orleans, [CVPR 2022](https://cvpr2022.thecvf.com/).
