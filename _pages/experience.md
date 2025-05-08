@@ -8,7 +8,11 @@ author_profile: true
 {% include base_path %}
 
 ## Research Fellow
-Oct 2023 - Now,
+Jul 2024 - Now,
+[Department of Data Science, City University of Hong Kong](https://www.cityu.edu.hk/stfprofile/xinkeli.htm)
+
+## Research Fellow
+Oct 2023 - May 2024,
 Under [Prof. Chee Yeow Meng](https://www.nus.edu.sg/about/management/chee-yeow-meng)
 
 ## Research Intern
@@ -28,6 +32,6 @@ Jan 2019 - Aug 2023, ISEM NUS
 * IE5205 Healthcare System and Analytics, NUS
 
 ## Academic Service
-Regular reviewer for IJCAI, CVPR, ECCV, NeuriPS, ICLR, AAAI, and IEEE Transactions on Information Forensics and Security. 
+Regular reviewer for ICML, IJCAI, CVPR, ECCV, NeuriPS, ICLR, AAAI, and IEEE Transactions on Information Forensics and Security. 
 
 
