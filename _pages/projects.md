@@ -18,8 +18,10 @@ author_profile: true
 
 **Breath AI** is an AI-powered, non-invasive diagnostic platform that analyzes exhaled breath to screen for multiple diseases in just one sample. By combining machine learning with mass spectrometry, it detects volatile organic compounds (VOCs) in human breath—biomarkers linked to both infectious and chronic diseases. The system delivers fast infectious disease screening (e.g., COVID-19, tuberculosis) in under 3 minutes, and early warning for chronic illnesses such as cancer, cardiovascular disease, and diabetes. Designed for global impact, the technology supports United Nations Sustainable Development Goal 3 (Good Health and Well-Being) by enabling affordable, accessible, and scalable health screening. It also contributes to SDG 10 by being deployable in underserved settings thus reducing healthcare inequalities.
 
-**Reported Video**: [youtube](https://www.youtube.com/watch?v=VW7mhA68fhA)
+**Reported Video**: [Youtube](https://www.youtube.com/watch?v=VW7mhA68fhA)
+
 **Rewards**: [UN AI for GOOD](https://aiforgood.itu.int/speaker/breath-ai/) [Asia Invention](https://scholars.cityu.edu.hk/en/prizes/gold-award-at-the-4th-asia-exhibition-of-innovations-and-inventio) [Geneva Invention](https://scholars.cityu.edu.hk/en/prizes/bronze-medal-medal-at-the-50th-international-exhibition-of-invent-2) [Silicon Vally Invention](https://scholars.cityu.edu.hk/en/prizes/thailand-award-for-the-best-international-invention-amp-innovatio) 
+
 
 
 ## Virtual NUS
