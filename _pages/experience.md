@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Research Fellow
+## Research Assistant Professor
 Jul 2024 - Now,
 [Department of Data Science, City University of Hong Kong](https://www.cityu.edu.hk/stfprofile/xinkeli.htm)
 
 ## Research Fellow
 Oct 2023 - May 2024,
-Under [Prof. Chee Yeow Meng](https://www.nus.edu.sg/about/management/chee-yeow-meng)
+Under [Prof. Chee Yeow Meng](https://www.sutd.edu.sg/profile/chee-yeow-meng/)
 
 ## Research Intern
 Mar 2021 - Jul 2021,
