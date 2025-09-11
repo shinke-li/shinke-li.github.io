@@ -21,19 +21,16 @@ author_profile: true
 Breath AI is an AI-powered, non-invasive diagnostic platform that analyzes exhaled breath to screen for multiple diseases in just one sample. By combining machine learning with mass spectrometry, it detects volatile organic compounds (VOCs) in human breath—biomarkers linked to both infectious and chronic diseases. The system delivers fast infectious disease screening (e.g., COVID-19, tuberculosis) in under 3 minutes, and early warning for chronic illnesses such as cancer, cardiovascular disease, and diabetes. Designed for global impact, the technology supports United Nations Sustainable Development Goal 3 (Good Health and Well-Being) by enabling affordable, accessible, and scalable health screening. It also contributes to SDG 10 by being deployable in underserved settings thus reducing healthcare inequalities.
 
 ## Virtual NUS
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/images/outdoor_model.gif">
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="/images/indoor_model.gif">
+<div style="text-align: center; margin-bottom: 1em;">
+    <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); margin: 0.5em; max-width: 45%;" 
+         src="/images/outdoor_model.gif" alt="Virtual NUS Outdoor Model Animation">
+    <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); margin: 0.5em; max-width: 45%;" 
+         src="/images/indoor_model.gif" alt="Virtual NUS Indoor Model Animation">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Informative and Refined 3D Model of NUS</div>
-</center>
+    <div style="color: #ff9500; border-bottom: 1px solid #d9d9d9; display: inline-block; padding: 2px 8px; font-style: italic; margin-top: 0.5em;">
+        Informative and Refined 3D Model of NUS
+    </div>
+</div>
 
 The **Virtual NUS** program aims at building a 3D digital twin of the NUS campus. The 3D digital model is far more sophisticated, informative, and interactive than the previous versions (e.g. Google 3D Map). It is supposed to pave the way for cutting-edge technology like autonomous driving and virtual reality. More information can be found in the [video](https://www.youtube.com/watch?v=J7V_OwjCc74).
 <!-- and [news](https://www.zaobao.com.sg/znews/singapore/story20180916-891511?utm_source=ZB_iPhone&utm_medium=share) of Zaobao newsaper. -->
