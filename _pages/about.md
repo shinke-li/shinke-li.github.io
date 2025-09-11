@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a Global Research Assistant Professor ([GRAP Scheme](https://www.cityu.edu.hk/vpti/graps/)) from the College of Computing (Data Science) at City University of Hong Kong. Before that, I was a research fellow and a Ph.D. student in the Faculty of Engineering at the National University of Singapore (NUS) in NUS supervised by [Prof. Chee Yeow Meng](https://www.nus.edu.sg/about/management/chee-yeow-meng). I received an M. Sc (Electrical & Computer Engineering) degree from NUS. I was also hired as a research assistant at IORA, NUS, working on several innovative projects of deep learning visual applications. Besides the vision-based projects, I am also interested in implementing machine learning techniques in medical applications. My research work was published in distinguished conferences (**three oral presentation papers**) and journals, including CVPR, ICCV, NeurIPS, ACM MM, IJCAI, AAAI, IJCV, IEEE TITS and IEEE JSTSP. **I am seeking motivated students or postdoctoral researchers to join my research team at CityU. Interested candidates are encouraged to send an email to lixkedu@outlook.com.**
+Hi! I am a Global Research Assistant Professor ([GRAP Scheme](https://www.cityu.edu.hk/vpti/graps/)) from the College of Computing (Data Science) at City University of Hong Kong. 
+
+Before that, I was a research fellow and a Ph.D. student in the Faculty of Engineering at the National University of Singapore (NUS) in NUS supervised by [Prof. Chee Yeow Meng](https://www.sutd.edu.sg/profile/chee-yeow-meng/). I received an M. Sc (Electrical & Computer Engineering) degree from NUS. I was also hired as a research assistant at IORA, NUS, working on several innovative projects of deep learning visual applications. Besides the vision-based projects, I am also interested in implementing machine learning techniques in medical applications. 
+
+My research work was published in distinguished conferences (**three oral presentation papers**) and journals, including CVPR, ICCV, NeurIPS, ACM MM, IJCAI, AAAI, IJCV, IEEE TITS and IEEE JSTSP. **I am seeking motivated students or postdoctoral researchers to join my research team at CityU. Interested candidates are encouraged to send an email to lixkedu@outlook.com.**
 
 My Current Research Topics:
 * Deep Learning on 3D Geometry
