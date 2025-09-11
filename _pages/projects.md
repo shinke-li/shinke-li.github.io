@@ -20,7 +20,6 @@ Breath AI is an AI-powered, non-invasive diagnostic platform that analyzes exhal
 
 ## Virtual NUS
 <div style="text-align: center; margin-bottom: 1em;">
-    <h2 style="margin: 0.5em 0; color: #333;">Virtual NUS</h2>
     <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); margin: 0.5em; max-width: 45%; display: inline-block;" 
          src="/images/outdoor_model.gif" alt="Virtual NUS Outdoor Model Animation">
     <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); margin: 0.5em; max-width: 45%; display: inline-block;" 
