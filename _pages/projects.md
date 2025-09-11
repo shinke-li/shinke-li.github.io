@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 ## BreathAI
 <div style="text-align: center; margin-bottom: 1em;">
-    <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); margin: 0.5em; max-width: 45%;" 
+    <h2 style="margin: 0.5em 0; color: #333;">BreathAI</h2>
+    <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); margin: 0.5em; max-width: 30%; display: inline-block;" 
          src="/images/breathai.jpg" alt="BreathAI Overview">
     <br>
     <div style="color: #ff9500; border-bottom: 1px solid #d9d9d9; display: inline-block; padding: 2px 8px; font-style: italic; margin-top: 0.5em;">
