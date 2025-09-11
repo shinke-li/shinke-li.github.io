@@ -17,11 +17,11 @@ author_profile: true
 
 
 ## Virtual NUS
-<div style="text-align: center; margin-bottom: 0.8em; max-width: 20%;">
+<div style="text-align: center; margin-bottom: 0.8em; max-width: 10%;">
     <h2 style="margin: 0.3em 0; color: #333; font-size: 1.5em;">Virtual NUS</h2>
-    <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); margin: 0.3em; max-width: 20%; display: inline-block;" 
+    <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); margin: 0.3em; max-width: 10%; display: inline-block;" 
          src="/images/outdoor_model.gif" alt="Virtual NUS Outdoor Model Animation">
-    <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); margin: 0.3em; max-width: 20%; display: inline-block;" 
+    <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08); margin: 0.3em; max-width: 10%; display: inline-block;" 
          src="/images/indoor_model.gif" alt="Virtual NUS Indoor Model Animation">
     <br>
     <div style="color: #ff9500; border-bottom: 1px solid #d9d9d9; display: inline-block; padding: 1px 6px; font-style: italic; margin-top: 0.3em; font-size: 0.9em;">
