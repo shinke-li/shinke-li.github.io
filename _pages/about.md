@@ -9,9 +9,9 @@ redirect_from:
 ---
 Hi! I am a Global Research Assistant Professor ([GRAP Scheme](https://www.cityu.edu.hk/vpti/graps/)) from the College of Computing (Data Science) at City University of Hong Kong. 
 
-Before that, I was a research fellow and a Ph.D. student in the Faculty of Engineering at the National University of Singapore (NUS) in NUS supervised by [Prof. Chee Yeow Meng](https://www.sutd.edu.sg/profile/chee-yeow-meng/). I received an M. Sc (Electrical & Computer Engineering) degree from NUS. I was also hired as a research assistant at IORA, NUS, working on several innovative projects of deep learning visual applications. Besides the vision-based projects, I am also interested in implementing machine learning techniques in medical applications. 
+Before that, I was a research fellow and a Ph.D. student in the Faculty of Engineering at the National University of Singapore (NUS) in NUS supervised by [Prof. Chee Yeow Meng](https://www.sutd.edu.sg/profile/chee-yeow-meng/). I received an M. Sc (Electrical & Computer Engineering) degree from NUS. I was also hired as a research assistant at IORA, NUS, working on several innovative projects of deep learning visual applications. In addition to the vision-based projects, I am also interested in applying machine learning techniques to medical applications. I am now the AI technology developer of **Breath AI** project, which is a breath-based disease diagnosis project initiated by Prof. Freddy Boey and Prof. Chee Yeow Meng.  
 
-My research work was published in distinguished conferences (**three oral presentation papers**) and journals, including CVPR, ICCV, NeurIPS, ACM MM, IJCAI, AAAI, IJCV, IEEE TITS and IEEE JSTSP. **I am seeking motivated students or postdoctoral researchers to join my research team at CityU. Interested candidates are encouraged to send an email to lixkedu@outlook.com.**
+My research work has been published in distinguished conferences (with three oral presentation papers) and journals, including CVPR, ICCV, NeurIPS, ACM MM, IJCAI, AAAI, IJCV, IEEE TITS, and IEEE JSTSP.
 
 My Current Research Topics:
 * Deep Learning on 3D Geometry
@@ -19,6 +19,7 @@ My Current Research Topics:
 * Deep Learning for Healthcare
 
 # News
+* Oct. 20, 2025: A corresponding-authored paper "[Controllable 3D Outdoor Scene Generation via Scene Graphs](https://arxiv.org/abs/2503.07152)" was presented in [ICCV 2025](https://iccv.thecvf.com/). [project page](https://yuheng.ink/project-page/control-3d-scene/)
 * May. 3, 2025: A journal paper "[Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity](https://arxiv.org/pdf/2301.13565)" was accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP).
 * Apr. 30, 2025: A corresponding-authored paper "[Enhancing Sampling Protocol for Point Cloud Classification Against Corruptions](https://arxiv.org/abs/2408.12062)" was accepted by [IJCAI 2025](https://2025.ijcai.org/)
 * Mar. 7, 2025: A corresponding-authored journal paper "[Deep Hierarchical Learning for 3D Semantic Segmentation](https://link.springer.com/article/10.1007/s11263-025-02387-6)" was accepted by the International Journal of Computer Vision (IJCV).
