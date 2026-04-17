@@ -18,6 +18,8 @@ switch_url: /
 * 医疗健康的深度学习
 
 # 新闻
+* 2026 年 3 月：论文 "[OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation](https://yuheng.ink/project-page/omniroam/)" 被 [SIGGRAPH 2026](https://s2026.siggraph.org/) 接收。代码已在 [GitHub](https://github.com/yuhengliu02/OmniRoam) 公开。
+* 2026 年 1 月 22 日：论文 "[Learning Unified Representation of 3D Gaussian Splatting](https://cilix-ai.github.io/gs-embedding-page/)" 被 [ICLR 2026](https://iclr.cc/Conferences/2026) 接收。代码已在 [GitHub](https://github.com/cilix-ai/gs-embedding) 公开。
 * 2025 年 10 月 20 日：通讯作者论文 "[Controllable 3D Outdoor Scene Generation via Scene Graphs](https://arxiv.org/abs/2503.07152)" 在 [ICCV 2025](https://iccv.thecvf.com/) 上发表。[项目主页](https://yuheng.ink/project-page/control-3d-scene/)
 * 2025 年 5 月 3 日：期刊论文 "[Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity](https://arxiv.org/pdf/2301.13565)" 被 IEEE Journal of Selected Topics in Signal Processing (JSTSP) 接收。
 * 2025 年 4 月 30 日：通讯作者论文 "[Enhancing Sampling Protocol for Point Cloud Classification Against Corruptions](https://arxiv.org/abs/2408.12062)" 被 [IJCAI 2025](https://2025.ijcai.org/) 接收。
