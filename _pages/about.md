@@ -13,7 +13,7 @@ Hi! I am a Global Research Assistant Professor ([GRAP Scheme](https://www.cityu.
 
 Before that, I was a research fellow and a Ph.D. student in the Faculty of Engineering at the National University of Singapore (NUS) in NUS supervised by [Prof. Chee Yeow Meng](https://www.sutd.edu.sg/profile/chee-yeow-meng/). I received an M. Sc (Electrical & Computer Engineering) degree from NUS. I was also hired as a research assistant at IORA, NUS, working on several innovative projects of deep learning visual applications. In addition to the vision-based projects, I am also interested in applying machine learning techniques to medical applications. I am now the AI technology developer of **Breath AI** project, which is a breath-based disease diagnosis project initiated by Prof. Freddy Boey and Prof. Chee Yeow Meng.  
 
-My research work has been published in distinguished conferences (with three oral presentation papers) and journals, including CVPR, ICCV, NeurIPS, ACM MM, IJCAI, AAAI, IJCV, IEEE TITS, and IEEE JSTSP.
+My research work has been published in distinguished conferences (with three oral presentation papers) and journals, including CVPR, ICCV, ICLR, NeurIPS, SIGGRAPH, ACM MM, IJCAI, AAAI, IJCV, IEEE TITS, and IEEE JSTSP.
 
 My Current Research Topics:
 * Deep Learning on 3D Geometry

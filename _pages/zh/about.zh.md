@@ -10,7 +10,7 @@ switch_url: /
 
 此前，我在新加坡国立大学（NUS）工学院担任研究员及博士生，师从 [Chee Yeow Meng 教授](https://www.sutd.edu.sg/profile/chee-yeow-meng/)。我在 NUS 取得电子与计算机工程专业硕士学位，并曾在 NUS 运筹与分析研究所（IORA）担任研究助理，参与多项基于深度学习的视觉应用创新项目。除视觉相关课题外，我亦致力于将机器学习技术应用于医疗健康领域。目前我是 **Breath AI** 项目的人工智能技术开发者，该项目由 Freddy Boey 教授与 Chee Yeow Meng 教授共同发起，旨在通过呼气进行疾病诊断。
 
-我的研究工作已在 CVPR、ICCV、NeurIPS、ACM MM、IJCAI、AAAI、IJCV、IEEE TITS、IEEE JSTSP 等知名会议和期刊上发表（其中三篇为口头报告论文）。
+我的研究工作已在 CVPR、ICCV、ICLR、NeurIPS、SIGGRAPH、ACM MM、IJCAI、AAAI、IJCV、IEEE TITS、IEEE JSTSP 等知名会议和期刊上发表（其中三篇为口头报告论文）。
 
 当前研究方向：
 * 三维几何的深度学习
