@@ -3,6 +3,8 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+lang: "en"
+switch_url: /zh/projects/
 ---
 
 {% include base_path %}

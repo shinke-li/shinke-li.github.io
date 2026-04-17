@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "论文发表"
+permalink: /zh/publications/
 author_profile: true
-lang: "en"
-switch_url: /zh/publications/
+lang: "zh"
+switch_url: /publications/
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  您也可以在<u><a href="{{author.googlescholar}}">我的 Google Scholar 主页</a></u>上找到我的论文。
 {% endif %}
 
 {% include base_path %}
