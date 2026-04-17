@@ -21,8 +21,8 @@ My Current Research Topics:
 * Deep Learning for Healthcare
 
 # News
-* Mar. 2026: A paper "[OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation](https://yuheng.ink/project-page/omniroam/)" was accepted by [SIGGRAPH 2026](https://s2026.siggraph.org/). The implementation code was released in [GitHub link](https://github.com/yuhengliu02/OmniRoam).
-* Jan. 22, 2026: A paper "[Learning Unified Representation of 3D Gaussian Splatting](https://cilix-ai.github.io/gs-embedding-page/)" was accepted by [ICLR 2026](https://iclr.cc/Conferences/2026). The implementation code was released in [GitHub link](https://github.com/cilix-ai/gs-embedding).
+* Mar. 2026: A corresponding-authored paper "[OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation](https://yuheng.ink/project-page/omniroam/)" was accepted by [SIGGRAPH 2026](https://s2026.siggraph.org/). The implementation code was released in [GitHub link](https://github.com/yuhengliu02/OmniRoam).
+* Jan. 22, 2026: A corresponding-authored paper "[Learning Unified Representation of 3D Gaussian Splatting](https://cilix-ai.github.io/gs-embedding-page/)" was accepted by [ICLR 2026](https://iclr.cc/Conferences/2026). The implementation code was released in [GitHub link](https://github.com/cilix-ai/gs-embedding).
 * Oct. 20, 2025: A corresponding-authored paper "[Controllable 3D Outdoor Scene Generation via Scene Graphs](https://arxiv.org/abs/2503.07152)" was presented in [ICCV 2025](https://iccv.thecvf.com/). [project page](https://yuheng.ink/project-page/control-3d-scene/)
 * May. 3, 2025: A journal paper "[Learning Against Distributional Uncertainty: On the Trade-off Between Robustness and Specificity](https://arxiv.org/pdf/2301.13565)" was accepted by IEEE Journal of Selected Topics in Signal Processing (JSTSP).
 * Apr. 30, 2025: A corresponding-authored paper "[Enhancing Sampling Protocol for Point Cloud Classification Against Corruptions](https://arxiv.org/abs/2408.12062)" was accepted by [IJCAI 2025](https://2025.ijcai.org/)
