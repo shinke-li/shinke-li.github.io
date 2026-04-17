@@ -1,25 +1,22 @@
-# main links links
+# main links (English)
 main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Experience"
-  #  url: /experience/
-
-  #- title: "Experience"
-    #url: /talks/    
-
   - title: "Projects"
-    url: /projects/    
-    
-  #- title: "Hornors"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
+    url: /projects/
+
   - title: "Experience"
     url: /experience/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+
+
+# main links (Chinese)
+main_zh:
+  - title: "论文发表"
+    url: /zh/publications/
+
+  - title: "项目"
+    url: /zh/projects/
+
+  - title: "工作经历"
+    url: /zh/experience/
